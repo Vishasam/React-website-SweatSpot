@@ -10,8 +10,7 @@ const About = () => {
   return (
     <>
     <Header title="About Us" image={HeaderImage}>
-      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam deleniti, impedit optio consequuntur vel itaque dolores quia facere aperiam quae? Ad minus architecto harum voluptates minima earum sint, facere odio.
-    </Header>
+    Instead of being just another gym equipment retailer, our founders wanted to be the best in the industry and set their minds to doing so!    </Header>
 
     <section className="about__story">
       <div className=" container about__story-container">
@@ -21,13 +20,9 @@ const About = () => {
         <div className="about__section-content">
           <h1>Our Story</h1>
           <p>
-          Gymnasia apparatus like barbells, jumping board, running path, tennis-balls, cricket field, and fencing area are used as exercises. In safe weather, outdoor locations are the most conducive to health.[2] Gyms were popular in ancient Greece. Their curricula included self-defense, gymnastica medica, 
-          or physical therapy to help the sick and injured, and for physical fitness and sports, from boxing to dancing to skipping rope
+          MyFitness has a strong social media foothold and we have garnered a fitness community on Instagram that has helped us immensely. Our Youth & Fitness Icon Sahil Khan has been a true source of inspiration for this community and has helped motivate them to acquire a healthy lifestyle by making the right choice.
           </p>
-          <p>
-          Gymnasia also had teachers of wisdom and philosophy. Community gymnastic events were done as part of the celebrations during various village festivals. In ancient Greece there was a phrase of contempt, "He can neither swim nor write.
-          " After a while, however, Olympic athletes began training in buildings specifically designed for them
-          </p>
+
         </div>
       </div>
 
@@ -38,13 +33,9 @@ const About = () => {
         <div className="about__section-content">
           <h1>Our Vision</h1>
           <p>
-          Gymnasia apparatus like barbells, jumping board, running path, tennis-balls, cricket field, and fencing area are used as exercises. In safe weather, outdoor locations are the most conducive to health.[2] Gyms were popular in ancient Greece. Their curricula included self-defense, gymnastica medica, 
-          or physical therapy to help the sick and injured, and for physical fitness and sports, from boxing to dancing to skipping rope
+          We've spent over 50 years defining fitness and now we're reinventing it. With personal fitness profiles, both traditional and digital personal training options and diverse group exercise class offerings all delivered in a supportive manner and motivating the environment.
           </p>
-          <p>
-          Gymnasia also had teachers of wisdom and philosophy. Community gymnastic events were done as part of the celebrations during various village festivals. In ancient Greece there was a phrase of contempt, "He can neither swim nor write.
-          " After a while, however, Olympic athletes began training in buildings specifically designed for them
-          </p>
+
         </div>
         <div className="about__section-image">
           <img src={VisionImage} alt="Our Vision Image" />
@@ -61,13 +52,9 @@ const About = () => {
         <div className="about__section-content">
           <h1>Our Mission</h1>
           <p>
-          Gymnasia apparatus like barbells, jumping board, running path, tennis-balls, cricket field, and fencing area are used as exercises. In safe weather, outdoor locations are the most conducive to health.[2] Gyms were popular in ancient Greece. Their curricula included self-defense, gymnastica medica, 
-          or physical therapy to help the sick and injured, and for physical fitness and sports, from boxing to dancing to skipping rope
+          Our mission is to PROVIDE a welcoming environment for the Austin community to improve their overall health. To EDUCATE our clients that overall health is more than just a fitness goal – it’s about community, variety, refueling, recovering, and challenging your mind and body. We EMPOWER our clients towards a greater quality of life with seasoned professionals, varied programs and disciplines, and conscious living principles all under one roof.
           </p>
-          <p>
-          Gymnasia also had teachers of wisdom and philosophy. Community gymnastic events were done as part of the celebrations during various village festivals. In ancient Greece there was a phrase of contempt, "He can neither swim nor write.
-          " After a while, however, Olympic athletes began training in buildings specifically designed for them
-          </p>
+
         </div>
       </div>
 

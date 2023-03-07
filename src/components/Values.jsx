@@ -14,7 +14,7 @@ const Values = () => {
             <div className="values__right">
                 <SectionHead icon={<GiCutDiamond/>} title="Values"/>
                 <p>
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officiis ducimus possimus cumque quisquam aperiam repellendus impedit iusto libero alias enim. 
+                To enhance the quality of life in the communities, we serve through our fitness philosophy, facilities, programs, and products and to instill in the lives of people everywhere the value of health and fitness 
                 </p>
                 <div className="values__wrapper">
                     {

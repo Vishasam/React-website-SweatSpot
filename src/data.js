@@ -40,28 +40,28 @@ export const programs = [
         id: 1,
         icon: <SiOpenaigym/>,
         title: "Program One",
-        info: "This is the day that the lord has made. We will rejoice!",
+        info: "Legs, shoulders, and abs",
         path: "/programs/111"
     },
     {
         id: 2,
         icon: <SiOpenaigym/>,
         title: "Program Two",
-        info: "This is the day that the lord has made. We will rejoice!",
+        info: "Chest and back",
         path: "/programs/222"
     },
     {
         id: 3,
         icon: <SiOpenaigym/>,
         title: "Program Three",
-        info: "This is the day that the lord has made. We will rejoice!",
+        info: "Arms and abs",
         path: "/programs/333"
     },
     {
         id: 4,
         icon: <SiOpenaigym/>,
         title: "Program Four",
-        info: "This is the day that the lord has made. We will rejoice!",
+        info: "Full body",
         path: "/programs/444"
     }
 ]
@@ -78,25 +78,25 @@ export const values = [
         id: 1,
         icon: <SiOpenaigym/>,
         title: "Value One",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        desc: "Living in Balance: Physically, Intellectually, Emotionally, Socially, and Spiritually"
     },
     {
         id: 2,
         icon: <SiOpenaigym/>,
         title: "Value Two",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        desc: "Promotion of Healthy Living Principles"
     },
     {
         id: 3,
         icon: <SiOpenaigym/>,
         title: "Value Three",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        desc: "Valuing the Difference of Experiences and Abilities"
     },
     {
         id: 4,
         icon: <SiOpenaigym/>,
         title: "Value Four",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        desc: "A Healthy Campus Community"
     }
 ]
 
@@ -112,32 +112,32 @@ export const faqs = [
     {
         id: 1,
         question: "How often should I exercise?",
-        answer: "Consectetur adipisicing elit. Non ipsa dolorem, rem consequatur eum omnis ex, fuga temporibus qui nesciunt odio aliquam commodi culpa inventore ut similique repellendus perferendis sint!"
+        answer: "It could be 30 minutes a day, 5 days a week. You can spread your activity out during the week and break it up into smaller chunks of time. It can make life better. "
     },
     {
         id: 2,
         question: "What time of day is best to work out?",
-        answer: "Distinctio nihil blanditiis accusantium atque, quo maxime inventore eum! Cum dolorem quibusdam amet et qui. Eos, omnis beatae? Quas, est at! Molestiae quidem ab soluta exercitationem culpa nostrum iusto illum qui non a harum deserunt atque commodi at velit."
+        answer: "working out at 7 a.m., compared to later in the afternoon or evening, may help individuals get more quality sleep at night. One more argument making the case for a workout first thing in the morning is that exercising on an empty stomach could burn more fat."
     },
     {
         id: 3,
         question: "How long should my workouts be?",
-        answer: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
+        answer: "A 45-minute workout is enough for most people to warm up, do some lifting or cardio, and cool down. Forty-five minutes is also well within the recommended range of 150-200 minutes of physical activity recommended by most experts for both weight loss and overall health"
     },
     {
         id: 4,
         question: "Do I need to warm up before my workouts?",
-        answer: "Molestiae quidem ab soluta exercitationem culpa nostrum iusto illum qui non a harum deserunt atque commodi at velit, consequatur quibusdam dignissimos cum labore possimus placeat consectetur nisi cupiditate? Qui totam est omnis dolor nobis quisquam veritatis a!"
+        answer: "Warm up properly before exercising to prevent injury and make your workouts more effective. This warm-up routine should take at least 6 minutes. Warm up for longer if you feel the need."
     },
     {
         id: 5,
         question: "Should I do strength training, cardio or both?",
-        answer: "Maiores fuga, cum praesentium esse laudantium! Distinctio nihil blanditiis accusantium atque, quo maxime inventore eum! Cum dolorem quibusdam amet et qui."
+        answer: "If your main goal is weight loss, you want to burn calories and build muscle mass. So, for optimal benefits, you should incorporate both cardio and strength training into your exercise routine"
     },
     {
         id: 6,
         question: "Should I lift weights for strength training?",
-        answer: "Quas, est at! Molestiae quidem ab soluta exercitationem culpa nostrum iusto illum qui non a harum deserunt atque commodi at velit, consequatur quibusdam dignissimos cum labore possimus placeat consectetur nisi cupiditate."
+        answer: "Weight training is an excellent way to build muscle mass and make your muscles stronger. It can also keep your metabolism chugging, strengthen your bones and joints, improve your muscle tone, help you burn more calories, and keep you healthier as you age."
     }
 ]
 
@@ -152,35 +152,35 @@ export const testimonials = [
     {
         id: 1,
         name: "Diana Ayi",
-        quote: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium ipsam facere ea a laboriosam sed? Quod vel voluptates a! Maxime minima cumque aut? In expedita numquam consectetur non officia iusto.",
+        quote: "YOUR EXTENSIVE DIVERSITY OF EQUIPMENT TYPES, THOUGH WISH YOU HAD A SEATED CALF PRESS",
         job: "Student",
         avatar: require("./images/avatar1.jpg")
     },
     {
         id: 2,
         name: "Daniel Vinyo",
-        quote: "Harum quaerat hic consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum this and that odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
+        quote: "YOU HAVE GREAT FITNESS CLASSES LIKE ZUMBA AND BODY FLOW AND PUMP. I LOVE THE INSTRUCTORS TOO. THEY HAVE SUCH PASSION AND ENERGY FOR WHAT THEY DO!",
         job: "Software Egineer",
         avatar: require("./images/avatar2.jpg")
     },
     {
         id: 3,
         name: "Edem Quist",
-        quote: "Quaerat hic praesentium consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
+        quote: "INSTRUCTORS FOR THE VARIOUS CLASSES ARE GOOD. MANY CARDIO MACHINES AVAILABLE GOOD WEIGHT ROOM",
         job: "University Lecturer",
         avatar: require("./images/avatar3.jpg")
     },
     {
         id: 4,
         name: "Grace Lavoe",
-        quote: "Cupiditate deleniti sint consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
+        quote: "BABYSITTING, CLASSES, WOMEN’S ROOM, AND THE CULTURE OF THE CLIENTS AND STAFF. SUCH A FUN FRIENDLY BUT STRONG WORKOUT ENVIRONMENT",
         job: "Talking Parrot",
         avatar: require("./images/avatar4.jpg")
     },
     {
         id: 5,
         name: "Nana Yaa Dankwa",
-        quote: "Maxime minima cumque sit amet consectetur adipisicing elit. Praesentium ipsam facere ea a laboriosam sed? Quod vel voluptates a! Maxime minima cumque aut? In expedita numquam consectetur non officia iusto.",
+        quote: "JENNA WAS REALLY GREAT AS A TRAINER. VERY UPBEAT. NOT OVERCROWDED AND GOOD MACHINES.",
         job: "Pharmacist",
         avatar: require("./images/avatar5.jpg")
     }

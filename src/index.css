@@ -103,8 +103,10 @@ img {
 
 .btn.lg {
     padding: 0.4rem 1rem;
-    border-radius: 1rem;
+    border-radius: 1.5rem;
     font-size: 1rem;
+    margin: 2rem 0 1rem;
+    display:flex;
 }
 
 .btn.sm {
