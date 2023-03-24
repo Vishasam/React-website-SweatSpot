@@ -1,6 +1,6 @@
 #here is my hosted website link: https://sweat-spot.netlify.app
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/115407738/227491055-d655ff6a-b786-4ab3-8ddf-f7c95598d456.png)
 
 # Getting Started with Create React App
 
